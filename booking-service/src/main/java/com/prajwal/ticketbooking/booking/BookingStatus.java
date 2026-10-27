@@ -1,0 +1,1 @@
+package com.prajwal.ticketbooking.booking; public enum BookingStatus { CONFIRMED }
